@@ -1,13 +1,13 @@
 # SKKU Coding Platform 모의대회(Pre-Contest)
 Date : 2021/01/04 ~ 2021/01/10  
-Result : 11th, 4 Solved 3 Unsolved.  
+Contest Result : 11th, 4 Solved 3 Unsolved.  
 
 Upsolving Progress  
 Problem A : Solved.  
 Problem B : Solved.  
 Problem C : Solved.  
 Problem D : Solved.  
-Problem E : Solving.  
+Problem E : Solved.  
 Problem F : Solving.  
 Problem G : Solving.
 
