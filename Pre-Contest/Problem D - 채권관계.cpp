@@ -7,6 +7,8 @@ int a[10005];
 int parent[10005];
 bool check[10005];
 
+// Using Union-Find method to get the answer.
+
 int find_parent(int num)
 {
     if (num == parent[num])
