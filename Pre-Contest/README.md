@@ -8,7 +8,7 @@ Problem B : Solved.
 Problem C : Solved.  
 Problem D : Solved.  
 Problem E : Solved.  
-Problem F : Solving.  
+Problem F : Solved.  
 Problem G : Solving.
 
 ## Problem A  
