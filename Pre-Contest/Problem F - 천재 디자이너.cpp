@@ -11,7 +11,7 @@ int sum[30][100005];
 
 bool check_color(int k)
 {
-    // Prefix Sum Ended
+    // Prefix Sum Stage
 
     for (int i = 0; i < 26; i++)
     {
