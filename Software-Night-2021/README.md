@@ -1,4 +1,4 @@
-# SKKU Coding Platform 모의대회(Pre-Contest)
+# 2021 SKKU 프로그래밍 대회 in 소프트의 밤
 Date : 2021/11/10 20:00 ~ 2021/11/11 00:59  
 Contest Result : 6th, 3 Solved 3 Unsolved.  
 
